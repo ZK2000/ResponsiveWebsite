@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.nav-link{
+    float: right;
+}
+.nav-item{
+    padding-left: 50px;
+}
+.navbar img{
+    margin-left: 15px;
+}
+.login-btn{
+    margin-right: 20px;
+}
+.modal-title{
+    color: blue;
+}
+
+
+.headline{
+    color: black;
+    text-decoration: double underline;
+    text-align: center;
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.logomark{
+    height: 200px;
+    width:200;
+    display: block;
+    margin: 1px auto;
+}
+.formgroup{
+    background-color: lightblue;
+    border: 2px solid black;
+    padding-left:60px;
+    padding-top: 40px;
+    margin: 50px;
+    line-height: 2;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+}
+.sendbtn{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    padding: 5px;
+    letter-spacing: 5px;
+    background-color: black;
+    color: lightgreen;
+}
+.return-link{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    margin-bottom: 20px;
+}
+.return-link a:hover{
+    color: black;
+    background-color: lightcyan;
+    border-radius: 10%;
+    padding: 10px;
+    text-decoration: none;
+
+}
+input, textarea{
+    padding: 5px;
+}
+
+.bg-about{
+    background-image: url(bgpic.jpg);
+}
+#about-container .card-text{
+    color: coral;
+    margin-left: 50px;
+}
+#about-container .ttl-card-title{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: double underline;
+}
+#about-container .card-title{
+    margin-top: 30px;
+}
+#about-container .card-deck{
+    margin-top: 230px;
+    padding-bottom: 20px;
+}
+#home-container .card-text{
+    color: coral;
+    margin-left: 50px;
+}
+#home-container .card-title{
+    margin-top: 30px;
+}
+#home-container .card-deck{
+    margin-top: 250px;
+    padding-bottom: 20px;
+}
